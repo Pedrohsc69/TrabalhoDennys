@@ -1,0 +1,14 @@
+Requisitos Funcionais:
+1- Permitir que o usuário crie uma conta
+2- Permitir que o usuário faça login em sua conta
+3- Permitir que o usuário crie novas tarefas
+4- Permitir que o usuário edite tarefas já existentes
+5- Permitir que o usuário exclua tarefas existentes
+6- Permitir que o usuário compartilhe suas tarefas
+
+
+Requisitos não Funcionais:
+1- Garantir privacidade das tarefas do usuário
+2- Garantir a segurança no banco de dados
+3- Garantir a versatilidade do aplicativo para diferentes dispositivos
+4- Garantir a segurança da conta do usuário
