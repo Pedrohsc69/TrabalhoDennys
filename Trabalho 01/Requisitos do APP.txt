@@ -5,6 +5,8 @@ Requisitos Funcionais:
 4- Permitir que o usuário edite tarefas já existentes
 5- Permitir que o usuário exclua tarefas existentes
 6- Permitir que o usuário compartilhe suas tarefas
+7- Pemirtir que o usuário recupere a senha
+8- Permitir que o usuário exporte suas páginas como pdf
 
 
 Requisitos não Funcionais:
@@ -13,5 +15,4 @@ Requisitos não Funcionais:
 3- Garantir a versatilidade do aplicativo para diferentes dispositivos
 4- Garantir a segurança da conta do usuário
 5- Enviar notifiações para o usuário sobre tarefas a fazer
-6- Pemirtir que o usuário recupere a senha
-7- Permitir que o usuário exporte suas páginas como pdf
+
