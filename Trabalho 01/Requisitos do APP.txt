@@ -12,3 +12,4 @@ Requisitos não Funcionais:
 2- Garantir a segurança no banco de dados
 3- Garantir a versatilidade do aplicativo para diferentes dispositivos
 4- Garantir a segurança da conta do usuário
+5- Enviar notifiações para o usuário sobre tarefas a fazer
