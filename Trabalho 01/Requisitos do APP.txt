@@ -16,3 +16,6 @@ Requisitos não Funcionais:
 4- Garantir a segurança da conta do usuário
 5- Enviar notifiações para o usuário sobre tarefas a fazer
 
+Lista das linguens de programação:
+1- MySQL (Para o banco de dados)
+2- Java (Para a criação do aplicativo)
