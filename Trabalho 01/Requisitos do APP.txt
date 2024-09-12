@@ -14,3 +14,4 @@ Requisitos não Funcionais:
 4- Garantir a segurança da conta do usuário
 5- Enviar notifiações para o usuário sobre tarefas a fazer
 6- Pemirtir que o usuário recupere a senha
+7- Permitir que o usuário exporte suas páginas como pdf
